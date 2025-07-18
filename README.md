@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **subhambose2001@gmail.com**
 
-- 📄 Know about my experiences [I am a fresher. Currently in my university 3rd year.](I am a fresher. Currently in my university 3rd year.)
+- 📄 Know about my experiences [I am a fresher. Currently in my university 4th year.](I am a fresher. Currently in my university 3rd year.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
