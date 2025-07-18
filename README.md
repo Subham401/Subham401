@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/subham-bose-sb100704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/subham-bose-sb100704" height="30" width="40" /></a>
-<a href="https://instagram.com/ֆʊɮɦǟʍ ɮօֆɛ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ֆʊɮɦǟʍ ɮօֆɛ" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/invites/contact/?igsh=gzoxclzs09u2&utm_content=pbi86tl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?igsh=gzoxclzs09u2&utm_content=pbi86tl" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/subhambose4001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhambose4001" height="30" width="40" /></a>
 </p>
 
